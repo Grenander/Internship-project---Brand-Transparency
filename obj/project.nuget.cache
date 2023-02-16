@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sdQf7GSFtMegIgw6MW7r9KKUanvLPJWRdYdQqCEN1sjY6I4kak2pCY5ADXXjVtej5bxXHfK/KfAejd2ITgaTjg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\iOS-App\\iOS-App\\iOS-App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Johny Grenander\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Johny Grenander\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
